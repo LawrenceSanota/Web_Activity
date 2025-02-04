@@ -3,7 +3,7 @@ import "./App.css";
 
 function App() {
   const user = {
-    image: "/img/profile.jpg", // Make sure the path is correct
+    image: "/img/profile.jpg",
     name: "Lawrence Sanota",
     bio: "A passionate web developer who loves creating beautiful UIs.",
     email: "lawrencesanota@gmail.com",
